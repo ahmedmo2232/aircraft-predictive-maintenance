@@ -2,7 +2,7 @@
 
 Predicting how many flight cycles a turbofan engine has left before failure, using NASA's C-MAPSS engine degradation dataset (FD001).
 
-![Predicted vs actual RUL]
+
 
 ---
 
